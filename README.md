@@ -1,16 +1,11 @@
-# demo
+讲解文章地址：
 
-A new Flutter project.
+[Flutter - 真•文本环绕问题的探究和分享](https://juejin.cn/post/7288609217958838307)
 
-## Getting Started
+效果图：
 
-This project is a starting point for a Flutter application.
+![03](https://github.com/Stitch-Taotao/flutter_text_around_blog_demo/assets/26296915/e06515e5-7e6f-4fdb-b526-49986205ab78)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
